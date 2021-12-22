@@ -1,4 +1,4 @@
-# REACT - testing-library
+# React-Testing-Library
 
 - yarn add --dev @testing-library/jest-dom
 - yarn add --dev @testing-library/react
