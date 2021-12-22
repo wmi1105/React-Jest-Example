@@ -8,7 +8,7 @@
 import @testinglibrary/jest-dom;
 ```
 
-##### toMatchSnapshot()
+#### toMatchSnapshot()
 
 - `__snapshots__/Account.test.tsx.snap` 파일이 생성됨
 - 컴포넌트를 수정했을 때 원하는 방식으로 렌더되는지 비교
